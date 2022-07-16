@@ -1,5 +1,5 @@
-# Todo App 🔥
-## [Link](https://saipavansiripuram.github.io/todo-app-react/) 🔗
+# Todo App 
+
 
 
 # Getting Started with Create React App
